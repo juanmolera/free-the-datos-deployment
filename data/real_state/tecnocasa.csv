@@ -1,0 +1,826 @@
+,city,name,location,price,discount,m2,bedrooms,bathrooms,insert_date
+0,Madrid,Piso en venta en Calle de los Montes de Toledo,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","99,999",0, 53, 2, 1,2023-10-15
+1,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","160,000",0, 79, 3, 1,2023-10-15
+2,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","310,000",0, 8, 4, 1,2023-10-15
+3,Madrid,Piso en venta en Latina,"Campamento, Madrid","305,000",7, 109, 4, 2,2023-10-15
+4,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","199,000",3, 50, 2, 1,2023-10-15
+5,Madrid,Piso en venta en San Blas,"Simancas, Madrid","108,000",6, 53, 2, 1,2023-10-15
+6,Madrid,Piso en venta en San Blas,"Simancas, Madrid","115,000",6, 54, 2, 1,2023-10-15
+7,Madrid,Piso en venta en Francisca Torres Catalán,"Vicálvaro, Madrid","317,000",0, 11, 3, 2,2023-10-15
+8,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","172,500",0, 76, 3, 1,2023-10-15
+9,Madrid,Piso en venta en Carretera De Canillas,"Hortaleza, Canillas, Madrid","312,000",2, 117, 3, 1,2023-10-15
+10,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","189,900",9, 116, 4, 2,2023-10-15
+11,Madrid,Piso en venta en Calle de Bravo Murillo,"Tetuán, Berruguete, Madrid","205,000",0, 36, 2,unknown,2023-10-15
+12,Madrid,Local comercial en venta en Calle de Matilde Hernandez,"Carabanchel, San Isidro, Madrid","79,900",0, 129, 2, 4,2023-10-15
+13,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","200,000",0, 70, 2, 1,2023-10-15
+14,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","135,000",4, 47, 2, 1,2023-10-15
+15,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","149,000",0, 50, 2, 1,2023-10-15
+16,Madrid,Piso en venta en Retiro,Madrid,"180,000",10, 49, 1, 1,2023-10-15
+17,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","189,000",6, 86,unknown, 1,2023-10-15
+18,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","228,000",0, 9,unknown, 1,2023-10-15
+19,Madrid,Local comercial en venta en Villaverde,"Villaverde Alto, Madrid","76,000",0, 89,unknown, 2,2023-10-15
+20,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","335,000",4, 97, 3, 1,2023-10-15
+21,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","130,000",0, 50, 2, 1,2023-10-15
+22,Madrid,Piso en venta en Latina,"Campamento, Madrid","179,900",0, 71, 3, 1,2023-10-15
+23,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","250,000",4, 74, 3, 1,2023-10-15
+24,Madrid,Piso en venta en Retiro,Madrid,"580,000",7, 140, 3, 2,2023-10-15
+25,Madrid,Casa en venta en Fuencarral,"Arroyo Del Fresno, Madrid","900,000",0, 27, 4,unknown,2023-10-15
+26,Madrid,Piso en venta en Carabanchel,"Vista Alegre, Madrid","110,000",0, 36,unknown, 1,2023-10-15
+27,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","118,000",0, 51, 2, 1,2023-10-15
+28,Madrid,Piso en venta en Salamanca,"Guindalera, Madrid","749,000",2, 206, 5,unknown,2023-10-15
+29,Madrid,Piso en venta en Salamanca,"Guindalera, Madrid","299,000",0, 69, 2,unknown,2023-10-15
+30,Madrid,Piso en venta en San Blas,"Simancas, Madrid","260,000",5, 120, 3, 1,2023-10-15
+31,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","235,000",0, 70, 3, 1,2023-10-15
+32,Madrid,Piso en venta en Usera,"Orcasitas - San Fermin, Madrid","120,000",5, 5, 2, 1,2023-10-15
+33,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","148,000",6, 60, 2, 1,2023-10-15
+34,Madrid,Piso en venta en Usera,"Orcasitas - San Fermin, Madrid","195,000",0, 130, 3, 2,2023-10-15
+35,Madrid,Local comercial en venta en Centro,"Lavapiés - Embajadores, Madrid","99,000",10, 39, 3, 1,2023-10-15
+36,Madrid,Piso en venta en Salamanca,"Fuente Del Berro, Madrid","950,000",0, 149, 4, 2,2023-10-15
+37,Madrid,Box/plaza de garaje en venta en Martín De Los Heros,"Moncloa - Aravaca, Argüelles - Casa De Campo, Madrid","30,000",15, 26,unknown,unknown,2023-10-15
+38,Madrid,Local comercial en venta en Ciudad Lineal,"Quintana, Madrid","100,000",0, 34,unknown, 1,2023-10-15
+39,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","193,000",2, 58, 2, 1,2023-10-15
+40,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","379,900",6, 13, 4, 2,2023-10-15
+41,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","184,900",2, 55, 2, 1,2023-10-15
+42,Madrid,Piso en venta en Salamanca,"Fuente Del Berro, Madrid","185,000",0, 38, 1, 1,2023-10-15
+43,Madrid,Box/plaza de garaje en venta en Paseo Marqués de Zafra,"Salamanca, Fuente Del Berro, Madrid","31,000",0, 1,unknown,unknown,2023-10-15
+44,Madrid,Piso en venta en Salamanca,"Fuente Del Berro, Madrid","358,000",0, 66, 2, 1,2023-10-15
+45,Madrid,Piso en venta en Calle Puerto de las Pilas,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","123,000",9, 51, 2, 1,2023-10-15
+46,Madrid,Local comercial en venta en Fuencarral,"Peñagrande, Madrid","99,000",0, 46,unknown,unknown,2023-10-15
+47,Madrid,Piso en venta en C. de Sierra Gádor,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","224,990",0, 145, 3, 2,2023-10-15
+48,Madrid,Piso en venta en Salamanca,"Fuente Del Berro, Madrid","345,000",0, 77, 2, 1,2023-10-15
+49,Madrid,Box/plaza de garaje en venta en Usera,"Almendrales - Pradolongo, Madrid","8,900",2, 15,unknown,unknown,2023-10-15
+50,Madrid,Piso en venta en San Blas,"Simancas, Madrid","149,999",0, 67, 2, 1,2023-10-15
+51,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","229,000",0, 80, 3, 1,2023-10-15
+52,Madrid,Piso en venta en Puente De Vallecas,"San Diego, Madrid","189,990",0, 95, 4, 2,2023-10-15
+53,Madrid,Edificio en venta en Puente De Vallecas,"San Diego, Madrid","649,000",14, 413,unknown,unknown,2023-10-15
+54,Madrid,Piso en venta en Puente De Vallecas,"San Diego, Madrid","115,000",0, 56, 2, 1,2023-10-15
+55,Madrid,Local comercial en venta en Salamanca,"Guindalera, Madrid","20,000",0, 20,unknown,unknown,2023-10-15
+56,Madrid,Local comercial en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","44,000",0, 27,unknown,unknown,2023-10-15
+57,Madrid,Box/plaza de garaje en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","29,000",0, 15,unknown,unknown,2023-10-15
+58,Madrid,Box/plaza de garaje en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","25,000",0, 10,unknown,unknown,2023-10-15
+59,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","139,900",7, 6, 2, 1,2023-10-15
+60,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","175,000",13, 6, 2, 1,2023-10-15
+61,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","360,000",10, 104, 3, 2,2023-10-15
+62,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","535,000",0, 159, 3, 1,2023-10-15
+63,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","155,000",16, 58, 2, 1,2023-10-15
+64,Madrid,Piso en venta en C. de Alejandro Villegas,"Hortaleza, Canillas, Madrid","320,000",13, 76, 2, 1,2023-10-15
+65,Madrid,Piso en venta en Tetuán,"Berruguete, Madrid","140,000",0, 40,unknown, 1,2023-10-15
+66,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","390,000",3, 158, 4, 2,2023-10-15
+67,Madrid,Box/plaza de garaje en venta en Tetuán,"Berruguete, Madrid","13,000",0, 10,unknown,unknown,2023-10-15
+68,Madrid,Box/plaza de garaje en venta en Calle de la Infanta Mercedes,"Tetuán, Cuzco - Castillejos, Madrid","24,000",0, 27,unknown,unknown,2023-10-15
+69,Madrid,Local comercial en venta en Carabanchel,"Opañel - San Isidro, Madrid","75,000",12, 23, 1, 1,2023-10-15
+70,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","310,000",0, 80, 3, 1,2023-10-15
+71,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","255,000",7, 71, 3, 2,2023-10-15
+72,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","230,000",7, 59, 2, 1,2023-10-15
+73,Madrid,Piso en venta en Tetuán,"Berruguete, Madrid","335,000",0, 110, 3, 2,2023-10-15
+74,Madrid,Piso en venta en Calle Puentelarra,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","165,000",0, 6, 2, 1,2023-10-15
+75,Madrid,Piso en venta en Calle Eduardo Chillida,"Villa De Vallecas, Santa Eugenia, Madrid","209,999",5, 78, 2, 1,2023-10-15
+76,Madrid,Piso en venta en Calle Puentelarra,"Villa De Vallecas, Santa Eugenia, Madrid","150,000",0, 67, 3, 1,2023-10-15
+77,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","220,000",13, 71, 3, 1,2023-10-15
+78,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","335,000",0, 77, 2, 2,2023-10-15
+79,Madrid,Piso en venta en Salamanca,"Guindalera, Madrid","449,000",1, 130,unknown,unknown,2023-10-15
+80,Madrid,Piso en venta en Barajas,"Alameda De Osuna, Madrid","200,000",0, 66, 3, 1,2023-10-15
+81,Madrid,Piso en venta en Barajas,"Alameda De Osuna, Madrid","375,000",0, 138, 3, 2,2023-10-15
+82,Madrid,Piso en venta en Hortaleza,"Virgen Del Cortijo - Manoteras, Madrid","250,000",10, 91, 2, 1,2023-10-15
+83,Madrid,Piso en venta en San Blas,"Salvador, Madrid","269,999",0, 80, 3, 1,2023-10-15
+84,Madrid,Piso en venta en Retiro,Madrid,"479,000",0, 108, 4, 2,2023-10-15
+85,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","240,000",0, 78, 3, 1,2023-10-15
+86,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","174,000",0, 50, 1, 1,2023-10-15
+87,Madrid,Piso en venta en Moratalaz,Madrid,"219,000",5, 118, 4, 2,2023-10-15
+88,Madrid,Piso en venta en San Blas,"Simancas, Madrid","137,000",0, 50, 2, 1,2023-10-15
+89,Madrid,Ático en venta en C. del Desengaño,"Centro, Malasaña - Justicia - Universidad, Madrid","799,000",0, 98, 4,unknown,2023-10-15
+90,Madrid,Piso en venta en Calle Alustante,"Chamartín, Prosperidad, Madrid","330,000",8, 130, 3, 2,2023-10-15
+91,Madrid,Piso en venta en Salamanca,"Fuente Del Berro, Madrid","165,000",0, 41, 1, 1,2023-10-15
+92,Madrid,Piso en venta en Carabanchel,"Vista Alegre, Madrid","135,000",0, 55, 2, 1,2023-10-15
+93,Madrid,Piso en venta en Hortaleza,"Canillas, Madrid","259,000",6, 7, 3, 1,2023-10-15
+94,Madrid,Local comercial en venta en Calle del Gral. Zabala,"Chamartín, Prosperidad, Madrid","135,000",13, 100,unknown,unknown,2023-10-15
+95,Madrid,Casa en venta en Barajas,"Alameda De Osuna, Madrid","649,999",0, 200, 5, 4,2023-10-15
+96,Madrid,Piso en venta en Calle Mauro,"Chamartín, Prosperidad, Madrid","460,000",3, 105, 4, 2,2023-10-15
+97,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","210,000",0, 49, 2, 1,2023-10-15
+98,Madrid,Box/plaza de garaje en venta en Usera,"Almendrales - Pradolongo, Madrid","49,990",10, 10,unknown,unknown,2023-10-15
+99,Madrid,Piso en venta en Mártires de Alcalá,"Moncloa - Aravaca, Argüelles - Casa De Campo, Madrid","160,000",6, 30,unknown, 1,2023-10-15
+100,Madrid,Piso en venta en Calle Ilustración,"Moncloa - Aravaca, Argüelles - Casa De Campo, Madrid","325,000",8, 5, 2, 2,2023-10-15
+101,Madrid,Piso en venta en Calle del Limón,"Centro, Malasaña - Justicia - Universidad, Madrid","169,000",20, 33,unknown, 1,2023-10-15
+102,Madrid,Box/plaza de garaje en venta en Calle Ferraz,"Moncloa - Aravaca, Argüelles - Casa De Campo, Madrid","55,000",9, 30,unknown,unknown,2023-10-15
+103,Madrid,Piso en venta en C/ Irún,"Moncloa - Aravaca, Argüelles - Casa De Campo, Madrid","320,000",0, 78, 2, 1,2023-10-15
+104,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","285,000",0, 85, 3, 1,2023-10-15
+105,Madrid,Piso en venta en Av. de los Toreros,"Salamanca, Guindalera, Madrid","799,000",6, 173, 4, 2,2023-10-15
+106,Madrid,Piso en venta en C/ de Francisco Silvela,"Salamanca, Lista, Madrid","439,000",0, 79, 2, 1,2023-10-15
+107,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","112,500",6, 46, 1, 1,2023-10-15
+108,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","130,000",7, 57, 2, 1,2023-10-15
+109,Madrid,Piso en venta en Calle del General Díaz Porlier,"Salamanca, Lista, Madrid","549,000",0, 70, 2, 2,2023-10-15
+110,Madrid,Piso en venta en Av. de los Toreros,"Salamanca, Guindalera, Madrid","559,000",0, 110, 3, 2,2023-10-15
+111,Madrid,Piso en venta en Calle Dr. Gómez Ulla,"Salamanca, Guindalera, Madrid","749,000",6, 150, 4, 2,2023-10-15
+112,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","162,000",5, 66, 2, 1,2023-10-15
+113,Madrid,Local comercial en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","470,000",10, 31,unknown, 1,2023-10-15
+114,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","119,000",0, 60, 3, 1,2023-10-15
+115,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","139,000",13, 40, 1, 1,2023-10-15
+116,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","145,000",0, 75, 3, 1,2023-10-15
+117,Madrid,Piso en venta en Moratalaz,Madrid,"240,000",0, 74, 3, 1,2023-10-15
+118,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","165,000",0, 66, 3, 1,2023-10-15
+119,Madrid,Casa en venta en San Blas,"Canillejas, Madrid","365,000",10, 138, 4, 1,2023-10-15
+120,Madrid,Local comercial en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","247,000",11, 26,unknown, 1,2023-10-15
+121,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","155,000",0, 70, 3,unknown,2023-10-15
+122,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","240,000",0, 56, 2, 1,2023-10-15
+123,Madrid,Piso en venta en Calle C/arriaza,"Moncloa - Aravaca, Argüelles - Casa De Campo, Madrid","260,000",8, 54, 2, 1,2023-10-15
+124,Madrid,Piso en venta en San Blas,"Simancas, Madrid","210,000",5, 88, 3, 1,2023-10-15
+125,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","205,000",6, 81, 2, 1,2023-10-15
+126,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","180,000",0, 58, 2,unknown,2023-10-15
+127,Madrid,Piso en venta en Carabanchel,"Opañel - San Isidro, Madrid","182,000",0, 57, 1, 1,2023-10-15
+128,Madrid,Piso en venta en Carabanchel,"Opañel - San Isidro, Madrid","192,000",6, 73, 3, 1,2023-10-15
+129,Madrid,Piso en venta en Carabanchel,"Opañel - San Isidro, Madrid","195,000",6, 91, 3, 1,2023-10-15
+130,Madrid,Piso en venta en Latina,"Aluche, Madrid","295,000",0, 89, 3,unknown,2023-10-15
+131,Madrid,Piso en venta en Latina,"Aluche, Madrid","134,900",4, 63, 2, 1,2023-10-15
+132,Madrid,Piso en venta en Latina,"Aluche, Madrid","169,000",0, 70, 3, 1,2023-10-15
+133,Madrid,Local comercial en venta en Latina,"Aluche, Madrid","130,000",4, 66, 2, 1,2023-10-15
+134,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","212,000",0, 8, 3, 1,2023-10-15
+135,Madrid,Local comercial en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","79,000",0, 11, 1, 1,2023-10-15
+136,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","195,000",0, 61, 2, 1,2023-10-15
+137,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","395,000",9, 85, 2, 2,2023-10-15
+138,Madrid,Piso en venta en Chamberí,Madrid,"475,000",0, 77, 2, 2,2023-10-15
+139,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","350,000",0, 61, 3, 1,2023-10-15
+140,Madrid,Piso en venta en Usera,"Orcasitas - San Fermin, Madrid","114,000",5, 40, 1, 1,2023-10-15
+141,Madrid,Piso en venta en Calle palencia,"Tetuán, Cuzco - Castillejos, Madrid","279,000",0, 48, 1, 1,2023-10-15
+142,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","253,900",0, 144, 4, 2,2023-10-15
+143,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","199,000",6, 55, 2, 1,2023-10-15
+144,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","315,000",5, 69, 2, 1,2023-10-15
+145,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","160,000",0, 54, 2, 1,2023-10-15
+146,Madrid,Local comercial en venta en C/ de Athos,"Latina, Puerta Del Ángel, Madrid","216,000",0, 180, 2, 1,2023-10-15
+147,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","589,000",0, 160, 3, 2,2023-10-15
+148,Madrid,Piso en venta en Moratalaz,Madrid,"190,000",10, 93, 3, 1,2023-10-15
+149,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","180,000",0, 53, 2, 1,2023-10-15
+150,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","178,000",0, 61, 3, 1,2023-10-15
+151,Madrid,Piso en venta en Hortaleza,"Canillas, Madrid","240,000",6, 73, 2, 1,2023-10-15
+152,Madrid,Piso en venta en Hortaleza,"Canillas, Madrid","280,000",7, 100, 3, 3,2023-10-15
+153,Madrid,Piso en venta en C. Virgen del Sagrario,"Ciudad Lineal, Concepción, Madrid","165,000",6, 50, 1, 1,2023-10-15
+154,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","159,000",0, 99, 3,unknown,2023-10-15
+155,Madrid,Piso en venta en Villaverde,"San Cristóbal, Madrid","114,000",0, 60, 2, 1,2023-10-15
+156,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","239,000",3, 85, 3, 1,2023-10-15
+157,Madrid,Piso en venta en Madrid,Madrid,"148,000",0, 39,unknown, 1,2023-10-15
+158,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","190,000",0, 89, 3, 2,2023-10-15
+159,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","220,000",3, 90, 3,unknown,2023-10-15
+160,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","127,000",6, 6, 2, 1,2023-10-15
+161,Madrid,Casa en venta en San Blas,"Simancas, Madrid","170,000",0, 71, 3, 1,2023-10-15
+162,Madrid,Piso en venta en Moratalaz,Madrid,"139,000",0, 63, 3, 1,2023-10-15
+163,Madrid,Piso en venta en Salamanca,"Fuente Del Berro, Madrid","379,000",5, 87, 2, 2,2023-10-15
+164,Madrid,Piso en venta en San Blas,"Simancas, Madrid","220,000",5, 115, 3, 1,2023-10-15
+165,Madrid,Box/plaza de garaje en venta en Arganzuela,"Imperial, Madrid","22,000",0, 39,unknown,unknown,2023-10-15
+166,Madrid,Piso en venta en Moratalaz,Madrid,"179,500",5, 74, 3, 1,2023-10-15
+167,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","200,000",5, 75, 3, 1,2023-10-15
+168,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","153,000",6, 60, 2, 1,2023-10-15
+169,Madrid,Piso en venta en Calle Bocángel,"Salamanca, Fuente Del Berro, Madrid","319,000",0, 60, 2, 1,2023-10-15
+170,Madrid,Box/plaza de garaje en venta en Salamanca,"Guindalera, Madrid","18,700",7, 10,unknown,unknown,2023-10-15
+171,Madrid,Piso en venta en Tetuán,"Valdeacederas, Madrid","169,000",6, 78, 2, 1,2023-10-15
+172,Madrid,Box/plaza de garaje en venta en Tetuán,"Valdeacederas, Madrid","16,900",6, 1031,unknown,unknown,2023-10-15
+173,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","140,000",0, 61, 3, 1,2023-10-15
+174,Madrid,Piso en venta en Centro,"Huertas - Cortes, Madrid","559,900",0, 8, 2,unknown,2023-10-15
+175,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","639,000",8, 145, 4, 2,2023-10-15
+176,Madrid,Piso en venta en P.º de las Yeserías,"Arganzuela, Acacias - Legazpi, Madrid","810,000",5, 144, 4,unknown,2023-10-15
+177,Madrid,Local comercial en venta en Calle Claudio Sánchez Albornoz,"Latina, Campamento, Madrid","107,000",3, 94,unknown, 2,2023-10-15
+178,Madrid,Piso en venta en C. de los Pilares,"Barajas, Alameda De Osuna, Madrid","175,000",4, 54, 1, 1,2023-10-15
+179,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","119,990",0, 55, 3, 1,2023-10-15
+180,Madrid,Box/plaza de garaje en venta en Latina,"Lucero, Madrid","16,000",0, 1, 1,unknown,2023-10-15
+181,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","530,000",0, 140, 3, 2,2023-10-15
+182,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","116,000",0, 54, 2, 1,2023-10-15
+183,Madrid,Piso en venta en Calle San Conrado,"Latina, Madrid Rio - Los Carmenes, Madrid","190,000",16, 55,unknown,unknown,2023-10-15
+184,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","129,500",6, 60, 2, 1,2023-10-15
+185,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","120,000",5, 66, 3, 1,2023-10-15
+186,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","169,000",0, 113, 3, 2,2023-10-15
+187,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","179,000",0, 35, 2, 1,2023-10-15
+188,Madrid,Piso en venta en San Blas,"Simancas, Madrid","145,000",0, 49, 3, 1,2023-10-15
+189,Madrid,Box/plaza de garaje en venta en Villaverde,"Villaverde Alto, Madrid","18,500",0, 1,unknown,unknown,2023-10-15
+190,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","179,000",0, 33, 2, 1,2023-10-15
+191,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","180,000",0, 85,unknown,unknown,2023-10-15
+192,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","169,900",0, 44, 1, 1,2023-10-15
+193,Madrid,Piso en venta en Chamartín,"Castilla, Madrid","720,000",7, 205, 4, 2,2023-10-15
+194,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","219,000",5, 88, 3, 2,2023-10-15
+195,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","229,000",0, 8, 3, 1,2023-10-15
+196,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","225,000",0, 6, 3, 1,2023-10-15
+197,Madrid,Piso en venta en Salamanca,"Lista, Madrid","750,000",0, 94, 2, 2,2023-10-15
+198,Madrid,Ático en venta en C. de Jorge Juan,"Salamanca, Lista, Madrid","1,190,000",8, 165, 3, 2,2023-10-15
+199,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","134,000",3, 65, 2, 1,2023-10-15
+200,Madrid,Box/plaza de garaje en venta en Centro,"Huertas - Cortes, Madrid","39,000",14, 15,unknown,unknown,2023-10-15
+201,Madrid,Local comercial en venta en C. Vicente Caballero,"Salamanca, Lista, Madrid","650,000",8, 506,unknown,unknown,2023-10-15
+202,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","155,000",0, 79, 3, 1,2023-10-15
+203,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","190,000",0, 66, 1, 1,2023-10-15
+204,Madrid,Box/plaza de garaje en venta en Tetuán,"Bellas Vistas, Madrid","13,500",10, 11,unknown,unknown,2023-10-15
+205,Madrid,Piso en venta en Moncloa - Aravaca,"Argüelles - Casa De Campo, Madrid","420,000",7, 11, 4, 2,2023-10-15
+206,Madrid,Local comercial en venta en Arganzuela,"Delicias - Embajadores, Madrid","450,000",0, 207,unknown,unknown,2023-10-15
+207,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","210,000",0, 57, 3, 1,2023-10-15
+208,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","189,000",0, 115, 3, 2,2023-10-15
+209,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","235,000",10, 75, 2, 1,2023-10-15
+210,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","379,000",0, 104, 2, 1,2023-10-15
+211,Madrid,Piso en venta en Puente De Vallecas,"San Diego, Madrid","275,000",0, 103, 3,unknown,2023-10-15
+212,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","157,000",0, 11, 3, 2,2023-10-15
+213,Madrid,Piso en venta en Villa De Vallecas,"Casco Histórico De Vallecas, Madrid","248,900",7, 124, 2, 2,2023-10-15
+214,Madrid,Piso en venta en Villa De Vallecas,"Casco Histórico De Vallecas, Madrid","156,000",0, 68, 2, 1,2023-10-15
+215,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","159,000",7, 81, 2,unknown,2023-10-15
+216,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","127,000",2, 58, 2,unknown,2023-10-15
+217,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","99,000",0, 59, 2, 1,2023-10-15
+218,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","465,000",7, 95, 4,unknown,2023-10-15
+219,Madrid,Piso en venta en Fuencarral,"Arroyo Del Fresno, Madrid","299,000",6, 63, 2,unknown,2023-10-15
+220,Madrid,Piso en venta en Fuencarral,"Arroyo Del Fresno, Madrid","465,000",7, 107, 4,unknown,2023-10-15
+221,Madrid,Casa en venta en Barajas,"Alameda De Osuna, Madrid","360,000",0, 10, 2, 2,2023-10-15
+222,Madrid,Piso en venta en Carabanchel,"Vista Alegre, Madrid","85,000",0, 40, 1, 1,2023-10-15
+223,Madrid,Piso en venta en Carabanchel,"Vista Alegre, Madrid","290,000",0, 135,unknown, 3,2023-10-15
+224,Madrid,Piso en venta en Carabanchel,"Vista Alegre, Madrid","145,000",0, 61, 3, 1,2023-10-15
+225,Madrid,Box/plaza de garaje en venta en Chamberí,Madrid,"37,000",6, 1,unknown,unknown,2023-10-15
+226,Madrid,Box/plaza de garaje en venta en Usera,"Almendrales - Pradolongo, Madrid","25,000",0, 15,unknown,unknown,2023-10-15
+227,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","160,000",0, 90, 3, 1,2023-10-15
+228,Madrid,Piso en venta en Latina,"Aluche, Madrid","359,000",5, 13, 4, 2,2023-10-15
+229,Madrid,Piso en venta en Latina,"Aluche, Madrid","239,000",0, 79, 3,unknown,2023-10-15
+230,Madrid,Piso en venta en Latina,"Aluche, Madrid","129,500",0, 65, 2, 1,2023-10-15
+231,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","130,000",3, 60, 3, 1,2023-10-15
+232,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","135,000",3, 6, 3, 1,2023-10-15
+233,Madrid,Piso en venta en C. de López de Hoyos,"Chamartín, Prosperidad, Madrid","319,000",0, 73, 3, 1,2023-10-15
+234,Madrid,Piso en venta en Chamartín,"Prosperidad, Madrid","320,000",0, 88, 4, 1,2023-10-15
+235,Madrid,Box/plaza de garaje en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","11,000",0, 1,unknown,unknown,2023-10-15
+236,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","150,000",6, 60, 2, 1,2023-10-15
+237,Madrid,Piso en venta en C/ de José Arcones Gil,"Ciudad Lineal, Pueblo Nuevo, Madrid","290,000",0, 104, 3, 2,2023-10-15
+238,Madrid,Piso en venta en Latina,"Puerta Del Ángel, Madrid","160,000",12, 60, 2, 1,2023-10-15
+239,Madrid,Local comercial en venta en Puente De Vallecas,"San Diego, Madrid","34,000",20, 25,unknown, 2,2023-10-15
+240,Madrid,Piso en venta en Barajas,"Alameda De Osuna, Madrid","350,000",0, 99, 3, 2,2023-10-15
+241,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","229,999",0, 83, 1, 1,2023-10-15
+242,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","189,800",0, 48, 2, 1,2023-10-15
+243,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","145,000",0, 40,unknown, 1,2023-10-15
+244,Madrid,Box/plaza de garaje en venta en Tetuán,"Valdeacederas, Madrid","12,500",0, 10,unknown,unknown,2023-10-15
+245,Madrid,Piso en venta en San Blas,"Simancas, Madrid","135,000",6, 55, 3, 1,2023-10-15
+246,Madrid,Piso en venta en Calle Musas,"San Blas, Canillejas, Madrid","160,000",6, 71, 3, 1,2023-10-15
+247,Madrid,Piso en venta en Plaza de la Convivencia,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","135,000",0, 94, 3, 1,2023-10-15
+248,Madrid,Piso en venta en Paseo Federico García Lorca,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","179,900",5, 8, 5, 1,2023-10-15
+249,Madrid,Piso en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","259,000",0, 159, 5, 2,2023-10-15
+250,Madrid,Local comercial en venta en Blvr. de José Prat,"Vicálvaro, Madrid","85,000",15, 67, 1, 2,2023-10-15
+251,Madrid,Casa en venta en C. de Gomeznarro,"Hortaleza, Canillas, Madrid","275,750",4, 70, 2, 1,2023-10-15
+252,Madrid,Piso en venta en Crta boadilla del monte,"Latina, Campamento, Madrid","195,000",0, 71, 3, 1,2023-10-15
+253,Madrid,Piso en venta en C. de Gomeznarro,"Hortaleza, Canillas, Madrid","155,000",10, 65, 2,unknown,2023-10-15
+254,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","170,000",6, 76, 3, 1,2023-10-15
+255,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","175,000",0, 75, 3, 1,2023-10-15
+256,Madrid,Piso en venta en Latina,"Aluche, Madrid","145,000",7, 69, 2, 1,2023-10-15
+257,Madrid,Piso en venta en Latina,"Aluche, Madrid","210,000",6, 90, 3, 1,2023-10-15
+258,Madrid,Piso en venta en Chamberí,Madrid,"899,000",0, 171, 3, 2,2023-10-15
+259,Madrid,Piso en venta en Moratalaz,Madrid,"300,000",0, 9, 3, 2,2023-10-15
+260,Madrid,Piso en venta en Centro,"Huertas - Cortes, Madrid","690,000",0, 133, 4, 1,2023-10-15
+261,Madrid,Piso en venta en San Blas,"Simancas, Madrid","119,900",6, 49, 2, 1,2023-10-15
+262,Madrid,Piso en venta en San Blas,"Simancas, Madrid","112,000",6, 55, 3, 1,2023-10-15
+263,Madrid,Piso en venta en Latina,"Aluche, Madrid","260,000",6, 105, 4, 2,2023-10-15
+264,Madrid,Piso en venta en Av. de Ramón y Cajal,"Hortaleza, Canillas, Madrid","430,000",0, 81, 2, 1,2023-10-15
+265,Madrid,Piso en venta en Usera,"Moscardo - Antonio Lopez, Madrid","125,000",0, 47, 2, 1,2023-10-15
+266,Madrid,Box/plaza de garaje en venta en Usera,"Moscardo - Antonio Lopez, Madrid","21,000",0, 1, 1,unknown,2023-10-15
+267,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","249,000",0, 79, 2, 1,2023-10-15
+268,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","400,000",0, 15, 3, 2,2023-10-15
+269,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","230,000",13, 70, 3, 1,2023-10-15
+270,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","110,000",0, 46, 2, 1,2023-10-15
+271,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","209,000",3, 96, 4, 1,2023-10-15
+272,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","175,000",3, 79, 3, 1,2023-10-15
+273,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","199,900",0, 119, 4, 2,2023-10-15
+274,Madrid,Piso en venta en C. de López de Hoyos,"Hortaleza, Canillas, Madrid","570,000",0, 113, 4, 2,2023-10-15
+275,Madrid,Local comercial en venta en Tetuán,"Valdeacederas, Madrid","60,000",0, 160,unknown, 1,2023-10-15
+276,Madrid,Piso en venta en Moratalaz,Madrid,"250,000",15, 93, 3, 2,2023-10-15
+277,Madrid,Piso en venta en Calle del Lago Van,"Vicálvaro, Madrid","164,000",0, 65, 3, 1,2023-10-15
+278,Madrid,Piso en venta en Villaverde,"Villaverde Alto, Madrid","116,000",0, 56, 2, 1,2023-10-15
+279,Madrid,Piso en venta en Carabanchel,"Opañel - San Isidro, Madrid","170,000",6, 85, 4, 1,2023-10-15
+280,Madrid,Local comercial en venta en Calle Eraso,"Salamanca, Guindalera, Madrid","40,000",0, 14,unknown,unknown,2023-10-15
+281,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","585,000",5, 123, 3, 2,2023-10-15
+282,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","165,000",2, 68, 2,unknown,2023-10-15
+283,Madrid,Piso en venta en Hortaleza,"Virgen Del Cortijo - Manoteras, Madrid","495,000",0, 136, 3, 2,2023-10-15
+284,Madrid,Piso en venta en Latina,"Aluche, Madrid","159,900",6, 8, 3, 1,2023-10-15
+285,Madrid,Piso en venta en Calle de Cartagena,"Chamartín, Prosperidad, Madrid","159,000",12, 55, 1, 1,2023-10-15
+286,Madrid,Piso en venta en Carabanchel,"Opañel - San Isidro, Madrid","125,000",8, 53, 2, 1,2023-10-15
+287,Madrid,Piso en venta en Villaverde,"San Cristóbal, Madrid","86,000",5, 55, 2, 1,2023-10-15
+288,Madrid,Piso en venta en Puente De Vallecas,"Entrevías, Madrid","120,000",6, 66, 3, 1,2023-10-15
+289,Madrid,Piso en venta en Puente De Vallecas,"Entrevías, Madrid","130,000",6, 7, 3, 1,2023-10-15
+290,Madrid,Piso en venta en Calle de Sta Genoveva,"Ciudad Lineal, Quintana, Madrid","179,900",4, 78,unknown, 1,2023-10-15
+291,Madrid,Piso en venta en Latina,"Aluche, Madrid","148,000",7, 67, 2, 1,2023-10-15
+292,Madrid,Piso en venta en Hortaleza,"Virgen Del Cortijo - Manoteras, Madrid","300,000",10, 87, 2, 1,2023-10-15
+293,Madrid,Piso en venta en Hortaleza,"Virgen Del Cortijo - Manoteras, Madrid","380,000",0, 137, 4, 2,2023-10-15
+294,Madrid,Piso en venta en Calle Hermanos Machado,"Ciudad Lineal, Quintana, Madrid","149,900",4, 58, 1, 1,2023-10-15
+295,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","198,000",3, 70, 3, 1,2023-10-15
+296,Madrid,Piso en venta en Villaverde,"Villaverde Alto, Madrid","159,000",0, 94, 3, 1,2023-10-15
+297,Madrid,Terrenos en venta en Villaverde,"Villaverde Alto, Madrid","120,000",0, 215,unknown,unknown,2023-10-15
+298,Madrid,Local comercial en venta en Villaverde,"Villaverde Alto, Madrid","60,000",20, 85,unknown, 1,2023-10-15
+299,Madrid,Piso en venta en Chamberí,Madrid,"549,900",0, 117, 3, 1,2023-10-15
+300,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","79,900",6, 23,unknown, 1,2023-10-15
+301,Madrid,Piso en venta en Villaverde,"Villaverde Alto, Madrid","125,000",0, 68, 3, 1,2023-10-15
+302,Madrid,Piso en venta en Tetuán,"Valdeacederas, Madrid","310,000",0, 105, 3, 1,2023-10-15
+303,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","149,000",6, 5, 2, 1,2023-10-15
+304,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","200,000",11, 60, 2, 1,2023-10-15
+305,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","340,000",3, 83, 2, 1,2023-10-15
+306,Madrid,Piso en venta en Chamartín,"Prosperidad, Madrid","375,000",0, 84,unknown, 2,2023-10-15
+307,Madrid,Piso en venta en Chamartín,"Prosperidad, Madrid","470,000",13, 80, 4, 2,2023-10-15
+308,Madrid,Piso en venta en Chamartín,"Prosperidad, Madrid","645,000",8, 11, 3, 2,2023-10-15
+309,Madrid,Box/plaza de garaje en venta en C. Turaco,"Latina, Puerta Del Ángel, Madrid","19,000",0, 11, 9,unknown,2023-10-15
+310,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","174,000",7, 64, 3, 1,2023-10-15
+311,Madrid,Piso en venta en Moratalaz,Madrid,"300,000",15, 11, 3, 2,2023-10-15
+312,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","209,000",13, 3, 2, 1,2023-10-15
+313,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","420,000",3, 70, 2, 1,2023-10-15
+314,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","179,900",3, 8, 3, 1,2023-10-15
+315,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","139,000",0, 67, 3, 1,2023-10-15
+316,Madrid,Piso en venta en Calle de Cartagena,"Chamartín, Prosperidad, Madrid","450,000",8, 10, 3, 2,2023-10-15
+317,Madrid,Local comercial en venta en Calle de Cartagena,"Salamanca, Guindalera, Madrid","125,000",7, 49,unknown, 2,2023-10-15
+318,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","135,000",10, 65, 3, 1,2023-10-15
+319,Madrid,Piso en venta en Calle de Cartagena,"Chamartín, Prosperidad, Madrid","325,000",0, 64, 2, 1,2023-10-15
+320,Madrid,Piso en venta en Avenida de América,"Chamartín, Prosperidad, Madrid","795,000",0, 148,unknown, 1,2023-10-15
+321,Madrid,Piso en venta en Moratalaz,Madrid,"185,000",0, 69, 2, 1,2023-10-15
+322,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","258,000",5, 86, 1, 1,2023-10-15
+323,Madrid,Piso en venta en Moncloa - Aravaca,"Argüelles - Casa De Campo, Madrid","200,000",0, 43, 1, 1,2023-10-15
+324,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","285,000",5, 110, 3,unknown,2023-10-15
+325,Madrid,Local comercial en venta en Carabanchel,"Vista Alegre, Madrid","120,000",28, 110,unknown,unknown,2023-10-15
+326,Madrid,Piso en venta en Carabanchel,"San Isidro, Madrid","210,000",0, 111, 4, 2,2023-10-15
+327,Madrid,Box/plaza de garaje en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","11,500",5, 15,unknown,unknown,2023-10-15
+328,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","161,000",6, 50, 2, 1,2023-10-15
+329,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","145,000",3, 71, 3, 1,2023-10-15
+330,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","199,000",0, 73, 3, 1,2023-10-15
+331,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","149,000",7, 56, 3, 1,2023-10-15
+332,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","219,000",0, 121, 4,unknown,2023-10-15
+333,Madrid,Piso en venta en Latina,"Aluche, Madrid","220,000",0, 97, 4, 1,2023-10-15
+334,Madrid,Piso en venta en Carabanchel,"Opañel - San Isidro, Madrid","130,000",14, 56, 2, 1,2023-10-15
+335,Madrid,Piso en venta en Moratalaz,Madrid,"140,000",6, 66, 2, 1,2023-10-15
+336,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","450,000",3, 128, 4, 2,2023-10-15
+337,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","430,000",0, 11, 3, 2,2023-10-15
+338,Madrid,Piso en venta en Moratalaz,Madrid,"265,000",15, 91, 3, 2,2023-10-15
+339,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","439,000",7, 100, 3, 2,2023-10-15
+340,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","168,000",0, 78, 3, 1,2023-10-15
+341,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","145,000",0, 73, 3, 1,2023-10-15
+342,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","450,000",7, 111, 3, 2,2023-10-15
+343,Madrid,Piso en venta en Latina,"Lucero, Madrid","207,000",0, 86, 3,unknown,2023-10-15
+344,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","228,000",1, 55, 3, 1,2023-10-15
+345,Madrid,Box/plaza de garaje en venta en Calle Oca,"Carabanchel, Vista Alegre, Madrid","15,000",0, 13,unknown,unknown,2023-10-15
+346,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","189,000",0, 5, 3,unknown,2023-10-15
+347,Madrid,Piso en venta en San Blas,"Simancas, Madrid","124,999",0, 47, 2, 1,2023-10-15
+348,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","410,000",7, 105, 4, 2,2023-10-15
+349,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","125,000",0, 58, 2, 1,2023-10-15
+350,Madrid,Piso en venta en Chamberí,Madrid,"405,000",6, 85, 4, 1,2023-10-15
+351,Madrid,Piso en venta en Chamberí,Madrid,"990,000",0, 173, 3, 2,2023-10-15
+352,Madrid,Piso en venta en Tetuán,"Valdeacederas, Madrid","285,000",0, 9, 2, 1,2023-10-15
+353,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","360,000",4, 117, 3, 1,2023-10-15
+354,Madrid,Local comercial en venta en Tetuán,"Valdeacederas, Madrid","159,900",6, 79, 2, 1,2023-10-15
+355,Madrid,Piso en venta en Latina,"Aluche, Madrid","265,000",6, 90, 3, 1,2023-10-15
+356,Madrid,Local comercial en venta en Chamartín,"Ciudad Jardín, Madrid","170,000",0, 4,unknown, 1,2023-10-15
+357,Madrid,Box/plaza de garaje en venta en Chamartín,"Ciudad Jardín, Madrid","9,000",19, 14,unknown,unknown,2023-10-15
+358,Madrid,Box/plaza de garaje en venta en Tetuán,"Valdeacederas, Madrid","21,500",0, 20,unknown, 1,2023-10-15
+359,Madrid,Piso en venta en Latina,"Aluche, Madrid","145,000",7, 67, 2, 1,2023-10-15
+360,Madrid,Piso en venta en Latina,"Aluche, Madrid","227,500",6, 89, 3, 1,2023-10-15
+361,Madrid,Local comercial en venta en Arganzuela,"Imperial, Madrid","225,000",16, 11,unknown, 1,2023-10-15
+362,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","145,000",0, 47, 3, 1,2023-10-15
+363,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","459,000",6, 176, 5, 3,2023-10-15
+364,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","198,000",2, 53, 2, 2,2023-10-15
+365,Madrid,Piso en venta en Avenida Hellin,"San Blas, Rosas, Madrid","115,000",5, 53, 2, 1,2023-10-15
+366,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","150,000",0, 26, 1, 1,2023-10-15
+367,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","225,000",6, 75, 5, 1,2023-10-15
+368,Madrid,Piso en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","156,000",4, 84, 2, 1,2023-10-15
+369,Madrid,Piso en venta en P.º de Extremadura,"Latina, Puerta Del Ángel, Madrid","265,000",0, 73, 3, 2,2023-10-15
+370,Madrid,Piso en venta en Calle Autogiro,"Barajas, Alameda De Osuna, Madrid","179,000",0, 65, 3, 1,2023-10-15
+371,Madrid,Piso en venta en San Blas,"Simancas, Madrid","119,500",3, 51, 2,unknown,2023-10-15
+372,Madrid,Piso en venta en Latina,"Puerta Del Ángel, Madrid","260,000",0, 71, 3, 1,2023-10-15
+373,Madrid,Local comercial en venta en Latina,"Puerta Del Ángel, Madrid","55,000",0, 26,unknown, 1,2023-10-15
+374,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","156,000",5, 55, 2, 1,2023-10-15
+375,Madrid,Box/plaza de garaje en venta en Villa De Vallecas,"Santa Eugenia, Madrid","19,000",0, 15,unknown,unknown,2023-10-15
+376,Madrid,Box/plaza de garaje en venta en Villa De Vallecas,"Santa Eugenia, Madrid","22,500",0, 16,unknown,unknown,2023-10-15
+377,Madrid,Piso en venta en Villa De Vallecas,"Santa Eugenia, Madrid","307,260",4, 111, 3, 2,2023-10-15
+378,Madrid,Piso en venta en Centro,"Huertas - Cortes, Madrid","199,000",3, 46, 1, 1,2023-10-15
+379,Madrid,Casa en venta en Salamanca,"Fuente Del Berro, Madrid","950,000",0, 210, 6, 2,2023-10-15
+380,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","389,000",1, 300, 5, 3,2023-10-15
+381,Madrid,Local comercial en venta en Chamberí,Madrid,"320,000",0, 101, 7, 1,2023-10-15
+382,Madrid,Piso en venta en Barajas,"Alameda De Osuna, Madrid","895,000",0, 400, 3, 5,2023-10-15
+383,Madrid,Terrenos en venta en C. Cometa,"Barajas, Alameda De Osuna, Madrid","180,000",10, 138,unknown,unknown,2023-10-15
+384,Madrid,Piso en venta en Latina,"Puerta Del Ángel, Madrid","184,000",6, 75, 3, 1,2023-10-15
+385,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","199,999",10, 78, 3, 1,2023-10-15
+386,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","245,000",2, 77, 2, 1,2023-10-15
+387,Madrid,Box/plaza de garaje en venta en Latina,"Puerta Del Ángel, Madrid","27,000",7, 13,unknown,unknown,2023-10-15
+388,Madrid,Piso en venta en C. José Silva,"Hortaleza, Canillas, Madrid","990,000",0, 140, 2, 2,2023-10-15
+389,Madrid,Box/plaza de garaje en venta en C. de Monseñor Oscar Romero,"Carabanchel, Vista Alegre, Madrid","4,500",0, 11,unknown,unknown,2023-10-15
+390,Madrid,Casa en venta en San Blas,"Simancas, Madrid","225,000",0, 80, 3, 1,2023-10-15
+391,Madrid,Local comercial en venta en Calle de Raimundo Fernández Villaverde,"Tetuán, Cuzco - Castillejos, Madrid","209,900",5, 98,unknown, 2,2023-10-15
+392,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","280,000",0, 69, 2, 2,2023-10-15
+393,Madrid,Piso en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","139,000",0, 8, 3, 1,2023-10-15
+394,Madrid,Box/plaza de garaje en venta en C. de María Odiaga,"Carabanchel, Puerta Bonita - Abrantes, Madrid","12,000",0, 10,unknown,unknown,2023-10-15
+395,Madrid,Piso en venta en Calle Piedrahita,"Carabanchel, Puerta Bonita - Abrantes, Madrid","148,000",0, 46, 2, 1,2023-10-15
+396,Madrid,Piso en venta en Moncloa - Aravaca,"Argüelles - Casa De Campo, Madrid","210,000",0, 6, 3, 1,2023-10-15
+397,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","170,000",0, 110, 3, 2,2023-10-15
+398,Madrid,Local comercial en venta en Chamartín,"Castilla, Madrid","163,000",9, 68,unknown, 1,2023-10-15
+399,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","199,000",0, 53, 2, 1,2023-10-15
+400,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","435,000",0, 110, 3, 2,2023-10-15
+401,Madrid,Piso en venta en San Blas,"Simancas, Madrid","117,000",0, 48, 2, 1,2023-10-15
+402,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","150,000",4, 66, 2, 1,2023-10-15
+403,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","173,000",0, 75, 3, 1,2023-10-15
+404,Madrid,Piso en venta en Chamberí,Madrid,"249,000",7, 51, 2, 1,2023-10-15
+405,Madrid,Piso en venta en Usera,"Orcasitas - San Fermin, Madrid","160,000",4, 67, 3, 1,2023-10-15
+406,Madrid,Piso en venta en Chamberí,Madrid,"639,000",0, 16, 4, 2,2023-10-15
+407,Madrid,Piso en venta en Puente De Vallecas,"Entrevías, Madrid","138,000",6, 65, 2, 1,2023-10-15
+408,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","119,000",0, 45, 1,unknown,2023-10-15
+409,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","79,000",0, 45, 1,unknown,2023-10-15
+410,Madrid,Piso en venta en Puente De Vallecas,"Entrevías, Madrid","129,000",6, 69, 3, 1,2023-10-15
+411,Madrid,Casa en venta en Villaverde,"Villaverde Alto, Madrid","329,000",0, 230, 3, 1,2023-10-15
+412,Madrid,Piso en venta en Av. Donostiarra,"Ciudad Lineal, Concepción, Madrid","210,000",0, 65, 2, 1,2023-10-15
+413,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","330,000",0, 95, 3,unknown,2023-10-15
+414,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","299,000",0, 143, 4, 2,2023-10-15
+415,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","129,000",14,, 1, 1,2023-10-15
+416,Madrid,Piso en venta en Plaza del jubilado,"Barajas, Alameda De Osuna, Madrid","159,900",4, 38, 1, 1,2023-10-15
+417,Madrid,Piso en venta en Latina,"Aluche, Madrid","194,000",3, 80, 3, 1,2023-10-15
+418,Madrid,Piso en venta en Latina,"Aluche, Madrid","179,000",3, 70, 3, 1,2023-10-15
+419,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","190,000",6, 55, 2, 1,2023-10-15
+420,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","220,000",0, 83, 3, 1,2023-10-15
+421,Madrid,Piso en venta en Latina,"Aluche, Madrid","178,000",3, 80, 3, 1,2023-10-15
+422,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","305,000",0, 105, 4, 2,2023-10-15
+423,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","185,000",12, 33, 1, 1,2023-10-15
+424,Madrid,Piso en venta en Centro,"Huertas - Cortes, Madrid","359,000",8, 89, 2, 2,2023-10-15
+425,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","210,000",13, 76, 3, 1,2023-10-15
+426,Madrid,Piso en venta en Calle de Palencia,"Tetuán, Cuzco - Castillejos, Madrid","109,900",13, 3, 1, 1,2023-10-15
+427,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","135,000",3, 57, 3, 1,2023-10-15
+428,Madrid,Local comercial en venta en Puente De Vallecas,"Numancia, Madrid","130,000",2, 204, 4,unknown,2023-10-15
+429,Madrid,Piso en venta en Plaza Ángel Carbajo,"Tetuán, Cuzco - Castillejos, Madrid","415,000",10, 87, 3, 2,2023-10-15
+430,Madrid,Piso en venta en Paseo Marqués de Zafra,"Salamanca, Fuente Del Berro, Madrid","595,000",0, 140, 3, 2,2023-10-15
+431,Madrid,Local comercial en venta en Latina,"Lucero, Madrid","123,000",0, 65,unknown,unknown,2023-10-15
+432,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","250,000",0, 40, 1, 1,2023-10-15
+433,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","220,000",0, 68, 3, 1,2023-10-15
+434,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","139,900",16, 58, 2, 1,2023-10-15
+435,Madrid,Local comercial en venta en Latina,"Lucero, Madrid","63,000",0, 30,unknown,unknown,2023-10-15
+436,Madrid,Local comercial en venta en Fuencarral,"Pilar, Madrid","105,000",0, 40,unknown, 1,2023-10-15
+437,Madrid,Piso en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","139,000",0, 83, 3, 1,2023-10-15
+438,Madrid,Piso en venta en Latina,"Puerta Del Ángel, Madrid","107,000",3, 24, 1,unknown,2023-10-15
+439,Madrid,Piso en venta en Moratalaz,Madrid,"258,000",5, 11, 3, 1,2023-10-15
+440,Madrid,Box/plaza de garaje en venta en Retiro,Madrid,"25,000",4, 10,unknown,unknown,2023-10-15
+441,Madrid,Edificio en venta en Calle de Cicerón,"Tetuán, Cuzco - Castillejos, Madrid","3,190,000",6, 900,unknown,unknown,2023-10-15
+442,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","230,000",0, 83, 3, 1,2023-10-15
+443,Madrid,Piso en venta en Vicálvaro,Madrid,"318,000",0, 85, 3, 2,2023-10-15
+444,Madrid,Piso en venta en Latina,"Lucero, Madrid","230,000",0, 71, 3, 1,2023-10-15
+445,Madrid,Box/plaza de garaje en venta en Retiro,Madrid,"24,000",4, 1,unknown,unknown,2023-10-15
+446,Madrid,Piso en venta en Virgen de la Roca,"Ciudad Lineal, Concepción, Madrid","240,000",0, 83, 2, 1,2023-10-15
+447,Madrid,Piso en venta en C. de Villablanca,"Vicálvaro, Madrid","115,000",11, 6, 2, 1,2023-10-15
+448,Madrid,Piso en venta en Moratalaz,Madrid,"275,000",5, 103, 3,unknown,2023-10-15
+449,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","149,990",4, 78, 3, 1,2023-10-15
+450,Madrid,Piso en venta en Moratalaz,Madrid,"256,000",0, 9, 3, 2,2023-10-15
+451,Madrid,Piso en venta en Calle Pico La Brujula,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","116,900",9, 50, 2, 1,2023-10-15
+452,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","275,000",0, 73, 2, 1,2023-10-15
+453,Madrid,Box/plaza de garaje en venta en Carabanchel,"Carabanchel Alto - Buena Vista, Madrid","13,000",0, 1,unknown,unknown,2023-10-15
+454,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","240,000",0, 77, 2, 1,2023-10-15
+455,Madrid,Piso en venta en Fuencarral,"Arroyo Del Fresno, Madrid","340,000",5, 90, 3, 2,2023-10-15
+456,Madrid,Piso en venta en Villa De Vallecas,"Santa Eugenia, Madrid","260,000",4, 97, 2, 2,2023-10-15
+457,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","140,000",0, 55, 2, 1,2023-10-15
+458,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","169,000",2, 5, 3, 1,2023-10-15
+459,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","179,000",2, 60, 3, 1,2023-10-15
+460,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","229,000",0, 78, 3, 1,2023-10-15
+461,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","419,000",6, 125, 4, 2,2023-10-15
+462,Madrid,Piso en venta en Villa De Vallecas,"Santa Eugenia, Madrid","293,550",4, 106, 4, 2,2023-10-15
+463,Madrid,Piso en venta en Centro,"Palacio, Madrid","240,000",0, 48, 1, 1,2023-10-15
+464,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","179,900",9, 113, 3, 2,2023-10-15
+465,Madrid,Piso en venta en Retiro,Madrid,"315,000",4, 68, 2, 1,2023-10-15
+466,Madrid,Piso en venta en Hortaleza,"Canillas, Madrid","184,000",4, 63, 3, 1,2023-10-15
+467,Madrid,Piso en venta en Chamberí,Madrid,"215,000",5, 39, 1, 1,2023-10-15
+468,Madrid,Piso en venta en Latina,"Lucero, Madrid","145,000",0, 4, 2, 1,2023-10-15
+469,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","269,000",6, 80, 2, 1,2023-10-15
+470,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","320,000",0, 144, 3, 2,2023-10-15
+471,Madrid,Terrenos en venta en Carabanchel,"Opañel - San Isidro, Madrid","850,000",0, 388, 5,unknown,2023-10-15
+472,Madrid,Box/plaza de garaje en venta en Usera,"Almendrales - Pradolongo, Madrid","8,000",20, 5,unknown,unknown,2023-10-15
+473,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","189,000",0, 50,unknown,unknown,2023-10-15
+474,Madrid,Box/plaza de garaje en venta en Villa De Vallecas,"Casco Histórico De Vallecas, Madrid","15,000",0, 10,unknown,unknown,2023-10-15
+475,Madrid,Box/plaza de garaje en venta en Villa De Vallecas,"Casco Histórico De Vallecas, Madrid","14,000",0, 1,unknown,unknown,2023-10-15
+476,Madrid,Box/plaza de garaje en venta en Calle de Luis Cabrera,"Chamartín, Prosperidad, Madrid","20,000",14, 31,unknown,unknown,2023-10-15
+477,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","330,000",9, 91, 2, 2,2023-10-15
+478,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","78,000",0, 35, 2, 1,2023-10-15
+479,Madrid,Piso en venta en C. de Omega,"Vicálvaro, Madrid","289,000",3, 104, 2, 2,2023-10-15
+480,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","260,000",2, 90, 2, 2,2023-10-15
+481,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","132,000",6, 61, 2, 1,2023-10-15
+482,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","175,000",0, 57, 2, 1,2023-10-15
+483,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","160,000",0, 97, 3, 2,2023-10-15
+484,Madrid,Trastero en venta en Calle Silfide,"San Blas, Canillejas, Madrid","10,500",0, 6,unknown,unknown,2023-10-15
+485,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","140,000",0, 40, 1, 1,2023-10-15
+486,Madrid,Piso en venta en Puente De Vallecas,"San Diego, Madrid","110,000",7, 60,unknown, 1,2023-10-15
+487,Madrid,Piso en venta en Moratalaz,Madrid,"165,000",0, 58, 3, 1,2023-10-15
+488,Madrid,Piso en venta en Moratalaz,Madrid,"235,000",0, 73, 2, 2,2023-10-15
+489,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","169,000",9, 64, 2, 1,2023-10-15
+490,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","245,000",6, 80, 2, 1,2023-10-15
+491,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","169,000",6, 67, 3, 1,2023-10-15
+492,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","138,000",6, 54, 2, 1,2023-10-15
+493,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","172,000",0, 58, 2, 1,2023-10-15
+494,Madrid,Piso en venta en Puente De Vallecas,"San Diego, Madrid","160,000",0, 90, 3, 1,2023-10-15
+495,Madrid,Piso en venta en Carabanchel,"Vista Alegre, Madrid","107,000",0, 50, 2, 1,2023-10-15
+496,Madrid,Piso en venta en Hortaleza,"Pinar Del Rey, Madrid","320,000",0, 73, 3, 1,2023-10-15
+497,Madrid,Piso en venta en Moratalaz,Madrid,"385,000",7, 127, 4, 2,2023-10-15
+498,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","177,000",0, 50, 3, 1,2023-10-15
+499,Madrid,Piso en venta en Retiro,Madrid,"355,000",0, 96, 3, 2,2023-10-15
+500,Madrid,Piso en venta en Retiro,Madrid,"360,000",0, 98, 5, 2,2023-10-15
+501,Madrid,Piso en venta en Retiro,Madrid,"368,000",0, 96, 3, 1,2023-10-15
+502,Madrid,Piso en venta en Retiro,Madrid,"260,000",4, 56, 2, 1,2023-10-15
+503,Madrid,Box/plaza de garaje en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","11,000",0, 16,unknown,unknown,2023-10-15
+504,Madrid,Piso en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","109,000",0, 44, 1, 1,2023-10-15
+505,Madrid,Local comercial en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","79,000",0, 106,unknown,unknown,2023-10-15
+506,Madrid,Piso en venta en Villaverde,"San Cristóbal, Madrid","93,000",5, 60, 2, 1,2023-10-15
+507,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","174,900",3, 80, 3, 1,2023-10-15
+508,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","280,000",0, 77, 2, 1,2023-10-15
+509,Madrid,Piso en venta en Virgen del Coro,"Ciudad Lineal, Concepción, Madrid","250,000",0, 73, 2, 1,2023-10-15
+510,Madrid,Piso en venta en Carabanchel,"Opañel - San Isidro, Madrid","135,000",8, 65, 2, 1,2023-10-15
+511,Madrid,Piso en venta en Latina,"Aluche, Madrid","215,000",0, 9, 3,unknown,2023-10-15
+512,Madrid,Piso en venta en Salamanca,"Guindalera, Madrid","580,000",0, 106, 3,unknown,2023-10-15
+513,Madrid,Piso en venta en Latina,"Aluche, Madrid","175,000",3, 70, 3, 1,2023-10-15
+514,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","135,000",3, 58, 1, 1,2023-10-15
+515,Madrid,Local comercial en venta en Latina,"Lucero, Madrid","29,000",0, 77,unknown, 1,2023-10-15
+516,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","185,000",0, 55, 2,unknown,2023-10-15
+517,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","150,000",0, 36, 2, 1,2023-10-15
+518,Madrid,Piso en venta en Usera,"Moscardo - Antonio Lopez, Madrid","141,000",0, 66, 3, 1,2023-10-15
+519,Madrid,Local comercial en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","299,000",0, 600, 3,unknown,2023-10-15
+520,Madrid,Local comercial en venta en Batalla del salado,"Arganzuela, Delicias - Embajadores, Madrid","150,000",12, 60,unknown,unknown,2023-10-15
+521,Madrid,Piso en venta en Barajas,"Alameda De Osuna, Madrid","449,999",0, 108, 4, 2,2023-10-15
+522,Madrid,Piso en venta en Arganzuela,"Imperial, Madrid","410,000",0, 141, 3, 2,2023-10-15
+523,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","311,000",0, 85, 2, 1,2023-10-15
+524,Madrid,Piso en venta en Calle Villaviciosa,"Latina, Campamento, Madrid","155,000",0, 69,unknown, 1,2023-10-15
+525,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","130,000",0, 40, 2, 1,2023-10-15
+526,Madrid,Piso en venta en Chamberí,Madrid,"1,300,000",0, 227, 6, 3,2023-10-15
+527,Madrid,Piso en venta en Chamberí,Madrid,"970,000",0, 261, 4, 2,2023-10-15
+528,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","175,000",0, 46, 1, 1,2023-10-15
+529,Madrid,Box/plaza de garaje en venta en Retiro,Madrid,"28,000",7, 16,unknown,unknown,2023-10-15
+530,Madrid,Local comercial en venta en C. Vicenta Villegas,"Latina, Lucero, Madrid","160,000",0, 130,unknown, 1,2023-10-15
+531,Madrid,Box/plaza de garaje en venta en C. Vicenta Villegas,"Latina, Lucero, Madrid","15,500",0, 23,unknown,unknown,2023-10-15
+532,Madrid,Piso en venta en Arganzuela,"Imperial, Madrid","399,000",0, 8, 2, 2,2023-10-15
+533,Madrid,Piso en venta en Chamartín,"Castilla, Madrid","920,000",0, 198, 5, 3,2023-10-15
+534,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","125,000",0, 64, 2,unknown,2023-10-15
+535,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","115,000",0, 66, 1,unknown,2023-10-15
+536,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","130,000",0, 64, 2,unknown,2023-10-15
+537,Madrid,Piso en venta en Carabanchel,"Puerta Bonita - Abrantes, Madrid","145,000",0, 73, 3,unknown,2023-10-15
+538,Madrid,Piso en venta en Villa De Vallecas,"Casco Histórico De Vallecas, Madrid","159,900",0, 40, 1, 1,2023-10-15
+539,Madrid,Box/plaza de garaje en venta en Calle Binéfar,"Carabanchel, Vista Alegre, Madrid","16,000",0, 11,unknown,unknown,2023-10-15
+540,Madrid,Piso en venta en Moncloa - Aravaca,"Ciudad Universitaria, Madrid","299,000",0, 58,unknown, 1,2023-10-15
+541,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","277,000",5, 78, 3, 1,2023-10-15
+542,Madrid,Piso en venta en Calle Baleares,"Carabanchel, Marque De Vadillo - Comillas, Madrid","357,000",8, 14, 4, 2,2023-10-15
+543,Madrid,Box/plaza de garaje en venta en Calle Alejandro Villegas,"Hortaleza, Canillas, Madrid","13,000",0, 20,unknown,unknown,2023-10-15
+544,Madrid,Piso en venta en San Blas,"Simancas, Madrid","109,900",6, 5, 3, 1,2023-10-15
+545,Madrid,Piso en venta en Usera,"Moscardo - Antonio Lopez, Madrid","173,000",0, 83, 3, 1,2023-10-15
+546,Madrid,Casa en venta en Usera,"Moscardo - Antonio Lopez, Madrid","280,500",0, 48, 3, 2,2023-10-15
+547,Madrid,Local comercial en venta en Madrid,Madrid,"65,000",0, 31,unknown, 1,2023-10-15
+548,Madrid,Piso en venta en C. de Isabel Clara Eugenia,"Hortaleza, Canillas, Madrid","445,700",0, 151, 3, 2,2023-10-15
+549,Madrid,Piso en venta en Usera,"Moscardo - Antonio Lopez, Madrid","159,900",0, 50, 2, 1,2023-10-15
+550,Madrid,Piso en venta en Retiro,Madrid,"600,000",7, 130, 3, 2,2023-10-15
+551,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","225,000",0, 75, 3,unknown,2023-10-15
+552,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","849,000",0, 145, 3, 2,2023-10-15
+553,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","149,000",0, 54, 2, 1,2023-10-15
+554,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","330,000",6, 123, 3, 2,2023-10-15
+555,Madrid,Piso en venta en Ciudad Lineal,"Quintana, Madrid","279,000",0, 73, 3, 1,2023-10-15
+556,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","195,000",3, 91, 4,unknown,2023-10-15
+557,Madrid,Local comercial en venta en Calle Carballino,"Latina, Campamento, Madrid","90,000",0, 41, 2, 1,2023-10-15
+558,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","107,000",0, 53, 3, 1,2023-10-15
+559,Madrid,Piso en venta en Calle Puerto de Alazores,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","117,000",9, 63, 2, 1,2023-10-15
+560,Madrid,Piso en venta en Av Albufera,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","370,000",0, 116, 3, 2,2023-10-15
+561,Madrid,Ático en venta en Tetuán,"Berruguete, Madrid","214,900",7, 57, 2, 1,2023-10-15
+562,Madrid,Piso en venta en Latina,"Aluche, Madrid","240,000",6, 89, 3, 1,2023-10-15
+563,Madrid,Piso en venta en Puente De Vallecas,"San Diego, Madrid","153,000",0, 68, 3, 1,2023-10-15
+564,Madrid,Piso en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","460,000",0, 130, 3, 2,2023-10-15
+565,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","249,000",4, 77, 2, 1,2023-10-15
+566,Madrid,Terrenos en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","185,000",0, 90,unknown,unknown,2023-10-15
+567,Madrid,Local comercial en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","89,000",0, 50,unknown,unknown,2023-10-15
+568,Madrid,Piso en venta en Calle Sor María de Ágreda,"Ciudad Lineal, Quintana, Madrid","149,900",7, 51, 1, 1,2023-10-15
+569,Madrid,Piso en venta en C. de la Barca,"Vicálvaro, Madrid","189,000",4, 87, 2, 1,2023-10-15
+570,Madrid,Casa en venta en San Blas,"Salvador, Madrid","800,000",10, 248, 4, 4,2023-10-15
+571,Madrid,Piso en venta en Villaverde,"San Cristóbal, Madrid","90,000",5, 55, 2, 1,2023-10-15
+572,Madrid,Piso en venta en Latina,"Aluche, Madrid","139,000",7, 67, 2, 1,2023-10-15
+573,Madrid,Piso en venta en Latina,"Lucero, Madrid","239,000",0, 84, 3,unknown,2023-10-15
+574,Madrid,Piso en venta en Latina,"Lucero, Madrid","390,000",0, 130, 3,unknown,2023-10-15
+575,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","99,000",0, 58, 3, 1,2023-10-15
+576,Madrid,Piso en venta en Calle de Lérida,"Tetuán, Cuzco - Castillejos, Madrid","475,000",5, 118, 4, 2,2023-10-15
+577,Madrid,Piso en venta en Moratalaz,Madrid,"165,000",5, 59, 2, 1,2023-10-15
+578,Madrid,Piso en venta en Villaverde,"Ciudad De Los Angeles, Madrid","155,000",0, 73, 3, 1,2023-10-15
+579,Madrid,Piso en venta en Chamartín,"Castilla, Madrid","470,000",15, 115, 3, 3,2023-10-15
+580,Madrid,Piso en venta en Chamartín,"Castilla, Madrid","499,000",15, 148, 4, 2,2023-10-15
+581,Madrid,Piso en venta en Chamartín,"Castilla, Madrid","289,000",0, 80, 2, 1,2023-10-15
+582,Madrid,Piso en venta en Moratalaz,Madrid,"189,000",5, 73, 3, 1,2023-10-15
+583,Madrid,Local comercial en venta en Puente De Vallecas,"Entrevías, Madrid","125,000",0, 160,unknown, 1,2023-10-15
+584,Madrid,Casa en venta en Barajas,"Alameda De Osuna, Madrid","720,000",4, 174, 4, 3,2023-10-15
+585,Madrid,Box/plaza de garaje en venta en Paseo de la Esperanza,"Arganzuela, Acacias - Legazpi, Madrid","19,000",5, 11,unknown,unknown,2023-10-15
+586,Madrid,Piso en venta en Latina,"Aluche, Madrid","110,000",0, 50, 1, 1,2023-10-15
+587,Madrid,Local comercial en venta en Carabanchel,"Opañel - San Isidro, Madrid","20,000",26, 46,unknown, 2,2023-10-15
+588,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","89,000",0, 36, 1, 1,2023-10-15
+589,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","349,900",2, 85, 3, 1,2023-10-15
+590,Madrid,Piso en venta en Retiro,Madrid,"290,000",7, 71, 3, 1,2023-10-15
+591,Madrid,Piso en venta en Calle de Bravo Murillo,"Tetuán, Cuzco - Castillejos, Madrid","349,000",0, 86, 3, 1,2023-10-15
+592,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","145,000",3, 65, 2, 1,2023-10-15
+593,Madrid,Piso en venta en Retiro,Madrid,"556,000",7, 138, 4, 2,2023-10-15
+594,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","235,000",6, 87, 5, 1,2023-10-15
+595,Madrid,Piso en venta en Calle del Gasómetro,"Arganzuela, Acacias - Legazpi, Madrid","359,000",0, 61, 1,unknown,2023-10-15
+596,Madrid,Box/plaza de garaje en venta en P.º de Juan Antonio Vallejo-Nájera Botas,"Arganzuela, Acacias - Legazpi, Madrid","26,000",0, 28,unknown,unknown,2023-10-15
+597,Madrid,Piso en venta en Usera,"Orcasitas - San Fermin, Madrid","160,000",4, 78, 2, 1,2023-10-15
+598,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","148,000",0, 37, 1, 1,2023-10-15
+599,Madrid,Local comercial en venta en Chamartín,"Castilla, Madrid","300,000",0, 77, 2, 1,2023-10-15
+600,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","85,000",5, 4, 1,unknown,2023-10-15
+601,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","113,000",6, 48, 2,unknown,2023-10-15
+602,Madrid,Piso en venta en Salamanca,"Guindalera, Madrid","199,000",0, 43, 1,unknown,2023-10-15
+603,Madrid,Piso en venta en Moratalaz,Madrid,"145,000",6, 59, 3, 1,2023-10-15
+604,Madrid,Piso en venta en Moratalaz,Madrid,"145,000",6, 59, 3, 1,2023-10-15
+605,Madrid,Piso en venta en Puente De Vallecas,"Entrevías, Madrid","129,000",6, 70, 3, 1,2023-10-15
+606,Madrid,Local comercial en venta en Hortaleza,"Pinar Del Rey, Madrid","600,000",0, 250,unknown, 1,2023-10-15
+607,Madrid,Piso en venta en Moratalaz,Madrid,"165,000",5, 59, 2, 1,2023-10-15
+608,Madrid,Piso en venta en Puente De Vallecas,"Entrevías, Madrid","149,000",6, 61, 3, 1,2023-10-15
+609,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","165,000",6, 60, 1, 1,2023-10-15
+610,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","149,999",0, 56, 2, 1,2023-10-15
+611,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","180,000",0, 78, 3, 1,2023-10-15
+612,Madrid,Piso en venta en Camino de la Suerte,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","105,000",0, 53, 3, 1,2023-10-15
+613,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","250,000",0, 59, 2, 1,2023-10-15
+614,Madrid,Piso en venta en Salamanca,"Guindalera, Madrid","599,900",2, 171, 4,unknown,2023-10-15
+615,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","379,999",7, 99, 3, 2,2023-10-15
+616,Madrid,Piso en venta en San Blas,"Simancas, Madrid","130,000",5, 45, 2, 1,2023-10-15
+617,Madrid,Piso en venta en Tetuán,"Bellas Vistas, Madrid","540,000",0, 151, 4,unknown,2023-10-15
+618,Madrid,Piso en venta en Hortaleza,"Canillas, Madrid","395,000",0, 107, 3, 2,2023-10-15
+619,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","210,000",0, 44, 1, 1,2023-10-15
+620,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","151,000",0, 79, 3, 1,2023-10-15
+621,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","249,000",4, 144,unknown,unknown,2023-10-15
+622,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","183,000",6, 60, 3, 1,2023-10-15
+623,Madrid,Piso en venta en Latina,"Puerta Del Ángel, Madrid","265,000",0, 74, 3, 2,2023-10-15
+624,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","150,000",4, 77, 3, 1,2023-10-15
+625,Madrid,Local comercial en venta en Puente De Vallecas,"San Diego, Madrid","65,000",18, 97,unknown, 2,2023-10-15
+626,Madrid,Piso en venta en Calle de la Infanta Mercedes,"Tetuán, Cuzco - Castillejos, Madrid","355,000",6, 93, 4, 1,2023-10-15
+627,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","175,000",0, 6, 3, 1,2023-10-15
+628,Madrid,Box/plaza de garaje en venta en Tetuán,"Berruguete, Madrid","20,000",0, 7,unknown,unknown,2023-10-15
+629,Madrid,Piso en venta en Latina,"Aluche, Madrid","199,500",5, 80, 3, 1,2023-10-15
+630,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","169,900",6, 63, 3, 1,2023-10-15
+631,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","150,000",0, 54, 2, 1,2023-10-15
+632,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","199,000",5, 109, 4,unknown,2023-10-15
+633,Madrid,Piso en venta en Fuencarral,"La Paz, Madrid","415,000",0, 117, 4,unknown,2023-10-15
+634,Madrid,Local comercial en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","152,000",5, 5, 2, 1,2023-10-15
+635,Madrid,Piso en venta en Carabanchel,"San Isidro, Madrid","200,000",0, 9, 3, 1,2023-10-15
+636,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","175,000",11, 70, 2, 1,2023-10-15
+637,Madrid,Piso en venta en Barajas,"Alameda De Osuna, Madrid","359,000",3, 99, 3, 2,2023-10-15
+638,Madrid,Piso en venta en Arganzuela,"Imperial, Madrid","410,000",0, 119, 3, 1,2023-10-15
+639,Madrid,Piso en venta en Chamberí,Madrid,"279,000",7, 53, 2, 1,2023-10-15
+640,Madrid,Piso en venta en Fuencarral,"Montecarmelo, Madrid","405,000",0, 83, 3, 1,2023-10-15
+641,Madrid,Ático en venta en C. de Narváez,"Salamanca, Lista, Madrid","1,050,000",8, 14, 4, 2,2023-10-15
+642,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","255,000",0, 76, 3, 1,2023-10-15
+643,Madrid,Piso en venta en Retiro,Madrid,"185,000",0, 40, 2, 2,2023-10-15
+644,Madrid,Piso en venta en Latina,"Lucero, Madrid","125,000",0, 49, 2, 1,2023-10-15
+645,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","415,000",0, 103, 3,unknown,2023-10-15
+646,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","235,000",0, 67, 2, 1,2023-10-15
+647,Madrid,Piso en venta en Fuencarral,"Montecarmelo, Madrid","390,000",0, 78, 2, 1,2023-10-15
+648,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","369,000",7, 121, 3, 2,2023-10-15
+649,Madrid,Local comercial en venta en Puente De Vallecas,"Numancia, Madrid","95,000",0, 1,unknown,unknown,2023-10-15
+650,Madrid,Piso en venta en Costanilla de San Vicente,"Centro, Malasaña - Justicia - Universidad, Madrid","170,000",0, 48,unknown,unknown,2023-10-15
+651,Madrid,Piso en venta en Villaverde,"San Cristóbal, Madrid","85,000",5, 60, 3, 1,2023-10-15
+652,Madrid,Piso en venta en Fuencarral,"Montecarmelo, Madrid","485,000",0, 108, 3, 2,2023-10-15
+653,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","255,000",0, 90, 2, 1,2023-10-15
+654,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","340,000",2, 91, 3, 1,2023-10-15
+655,Madrid,Piso en venta en Tetuán,"Valdeacederas, Madrid","360,000",0, 104, 3, 1,2023-10-15
+656,Madrid,Local comercial en venta en San Blas,"Canillejas, Madrid","117,000",0, 97, 2, 1,2023-10-15
+657,Madrid,Piso en venta en Calle A. Baldasano,"Hortaleza, Canillas, Madrid","339,000",0, 113, 4,unknown,2023-10-15
+658,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","199,900",0, 65, 2, 1,2023-10-15
+659,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","180,000",0, 60, 2, 1,2023-10-15
+660,Madrid,Piso en venta en Retiro,Madrid,"440,000",0, 79, 2, 2,2023-10-15
+661,Madrid,Local comercial en venta en Latina,"Aluche, Madrid","138,000",0, 150,unknown, 2,2023-10-15
+662,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","295,000",0, 8, 3, 1,2023-10-15
+663,Madrid,Local comercial en venta en Moncloa - Aravaca,"Valdezarza, Madrid","120,000",0, 103, 3, 2,2023-10-15
+664,Madrid,Piso en venta en Latina,"Aluche, Madrid","165,000",7, 67, 2, 1,2023-10-15
+665,Madrid,Trastero en venta en Villa De Vallecas,"Santa Eugenia, Madrid","9,500",0, 6,unknown,unknown,2023-10-15
+666,Madrid,Local comercial en venta en Centro,"Huertas - Cortes, Madrid","195,000",0, 99, 3,unknown,2023-10-15
+667,Madrid,Local comercial en venta en Latina,"Puerta Del Ángel, Madrid","175,000",0, 130, 2, 1,2023-10-15
+668,Madrid,Piso en venta en Centro,"Palacio, Madrid","279,900",0, 64, 2, 1,2023-10-15
+669,Madrid,Piso en venta en Calle Miosotis,"Tetuán, Valdeacederas, Madrid","220,000",0, 47, 1, 1,2023-10-15
+670,Madrid,Piso en venta en Fuencarral,"La Paz, Madrid","499,999",0, 128, 4, 2,2023-10-15
+671,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","260,000",0, 83, 3, 1,2023-10-15
+672,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","350,000",0, 86,unknown, 2,2023-10-15
+673,Madrid,Piso en venta en Paseo Federico Garcia Lorca,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","199,999",5, 93, 2, 1,2023-10-15
+674,Madrid,Piso en venta en Tetuán,"Berruguete, Madrid","340,000",0, 114, 3, 1,2023-10-15
+675,Madrid,Local comercial en venta en Fuencarral,"Pilar, Madrid","69,000",0, 60, 3,unknown,2023-10-15
+676,Madrid,Piso en venta en Ciudad Lineal,"Ventas, Madrid","218,000",0, 83, 4, 1,2023-10-15
+677,Madrid,Box/plaza de garaje en venta en Luis Salazar,"Chamartín, Prosperidad, Madrid","14,000",0, 10,unknown,unknown,2023-10-15
+678,Madrid,Piso en venta en Tetuán,"Berruguete, Madrid","245,000",7, 79, 3, 1,2023-10-15
+679,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","180,000",0, 88, 3, 1,2023-10-15
+680,Madrid,Piso en venta en Salamanca,"Fuente Del Berro, Madrid","650,000",0, 130, 4, 3,2023-10-15
+681,Madrid,Piso en venta en Tetuán,"Cuzco - Castillejos, Madrid","220,000",0, 64, 2, 1,2023-10-15
+682,Madrid,Piso en venta en Av. del General Perón,"Tetuán, Cuzco - Castillejos, Madrid","1,350,000",0, 310, 4, 3,2023-10-15
+683,Madrid,Piso en venta en Usera,"Moscardo - Antonio Lopez, Madrid","110,000",0, 57, 3, 1,2023-10-15
+684,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","219,000",7, 57, 2, 1,2023-10-15
+685,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","179,000",0, 73, 3, 1,2023-10-15
+686,Madrid,Piso en venta en Puente De Vallecas,"Numancia, Madrid","135,000",0, 65, 3, 1,2023-10-15
+687,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","117,000",5, 56, 3, 1,2023-10-15
+688,Madrid,Piso en venta en Tetuán,"Cuzco - Castillejos, Madrid","190,000",0, 44, 2, 1,2023-10-15
+689,Madrid,Piso en venta en Chamberí,Madrid,"229,000",0, 68, 3, 1,2023-10-15
+690,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","170,000",0, 91, 3, 1,2023-10-15
+691,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","226,000",7, 67, 2, 1,2023-10-15
+692,Madrid,Piso en venta en Calle Pensamiento,"Tetuán, Cuzco - Castillejos, Madrid","359,000",6, 97, 3, 1,2023-10-15
+693,Madrid,Piso en venta en Moncloa - Aravaca,"Argüelles - Casa De Campo, Madrid","660,000",0, 150, 3, 2,2023-10-15
+694,Madrid,Piso en venta en Latina,"Aluche, Madrid","430,000",0, 150,unknown, 2,2023-10-15
+695,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","140,000",16, 58, 3, 1,2023-10-15
+696,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","275,000",6, 73, 3, 1,2023-10-15
+697,Madrid,Piso en venta en Villa De Vallecas,"Santa Eugenia, Madrid","230,000",4, 85, 3, 2,2023-10-15
+698,Madrid,Piso en venta en San Blas,"Simancas, Madrid","187,000",5, 84, 3, 1,2023-10-15
+699,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","129,900",7, 56, 3, 1,2023-10-15
+700,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","205,000",0, 57, 2, 1,2023-10-15
+701,Madrid,Piso en venta en Fuencarral,"Peñagrande, Madrid","440,000",7, 108, 3, 2,2023-10-15
+702,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","395,000",0, 75,unknown, 2,2023-10-15
+703,Madrid,Box/plaza de garaje en venta en Calle Serrano,"Salamanca, Lista, Madrid","10,000",0, 16,unknown,unknown,2023-10-15
+704,Madrid,Local comercial en venta en Tetuán,"Bellas Vistas, Madrid","165,000",0, 36, 1, 2,2023-10-15
+705,Madrid,Piso en venta en Villaverde,"San Cristóbal, Madrid","87,000",5, 65, 3, 1,2023-10-15
+706,Madrid,Piso en venta en C. Moscareta,"Latina, Puerta Del Ángel, Madrid","318,000",0, 60, 2, 1,2023-10-15
+707,Madrid,Piso en venta en C. Moscareta,"Latina, Puerta Del Ángel, Madrid","298,000",0, 80, 3, 1,2023-10-15
+708,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","170,000",0, 55, 3, 1,2023-10-15
+709,Madrid,Piso en venta en Villaverde,"Villaverde Alto, Madrid","167,000",0, 68, 3, 1,2023-10-15
+710,Madrid,Piso en venta en Usera,"Almendrales - Pradolongo, Madrid","239,990",0, 113, 3, 2,2023-10-15
+711,Madrid,Edificio en venta en Usera,"Almendrales - Pradolongo, Madrid","387,000",0, 274, 3, 1,2023-10-15
+712,Madrid,Piso en venta en Villaverde,"Ciudad De Los Angeles, Madrid","129,000",0, 57, 3, 1,2023-10-15
+713,Madrid,Piso en venta en Chamberí,Madrid,"300,000",7, 70, 3, 1,2023-10-15
+714,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","205,000",6, 7, 3, 1,2023-10-15
+715,Madrid,Piso en venta en Calle de la Gavia Seca,"Villa De Vallecas, Casco Histórico De Vallecas, Madrid","110,000",0, 60, 3, 1,2023-10-15
+716,Madrid,Box/plaza de garaje en venta en Tetuán,"Valdeacederas, Madrid","16,000",0, 25,unknown,unknown,2023-10-15
+717,Madrid,Piso en venta en Puente De Vallecas,"Entrevías, Madrid","350,000",0, 360, 8, 2,2023-10-15
+718,Madrid,Piso en venta en Moncloa - Aravaca,"Valdezarza, Madrid","169,000",0, 63, 2, 1,2023-10-15
+719,Madrid,Piso en venta en Chamartín,"Ciudad Jardín, Madrid","345,000",0, 88, 3, 1,2023-10-15
+720,Madrid,Box/plaza de garaje en venta en Arganzuela,"Acacias - Legazpi, Madrid","15,900",0, 6,unknown,unknown,2023-10-15
+721,Madrid,Piso en venta en Tetuán,"Berruguete, Madrid","160,000",0, 57, 2, 1,2023-10-15
+722,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","290,000",0, 75,unknown,unknown,2023-10-15
+723,Madrid,Piso en venta en Fuencarral,"Pilar, Madrid","225,000",0, 63, 2, 1,2023-10-15
+724,Madrid,Box/plaza de garaje en venta en Calle de Embajadores,"Centro, Lavapiés - Embajadores, Madrid","21,500",0, 14,unknown,unknown,2023-10-15
+725,Madrid,Piso en venta en Moncloa - Aravaca,"Argüelles - Casa De Campo, Madrid","512,500",0, 85, 2, 1,2023-10-15
+726,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","110,000",10, 3, 2, 1,2023-10-15
+727,Madrid,Piso en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","155,000",0, 65, 2, 1,2023-10-15
+728,Madrid,Piso en venta en Tetuán,"Valdeacederas, Madrid","169,000",6, 79, 3, 1,2023-10-15
+729,Madrid,Piso en venta en Calle Albaida,"San Blas, Rosas, Madrid","139,999",5, 61, 3, 1,2023-10-15
+730,Madrid,Piso en venta en Villaverde,"San Cristóbal, Madrid","110,000",0, 70, 3, 1,2023-10-15
+731,Madrid,Piso en venta en Calle de Cartagena,"Chamartín, Prosperidad, Madrid","189,000",12, 49, 1, 1,2023-10-15
+732,Madrid,Trastero en venta en Calle Zigia,"Ciudad Lineal, Concepción, Madrid","10,000",0, 10,unknown,unknown,2023-10-15
+733,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","340,000",0, 87, 4, 1,2023-10-15
+734,Madrid,Piso en venta en San Blas,"Simancas, Madrid","179,999",0, 88, 1, 2,2023-10-15
+735,Madrid,Box/plaza de garaje en venta en Latina,"Puerta Del Ángel, Madrid","34,000",0, 18,unknown, 1,2023-10-15
+736,Madrid,Box/plaza de garaje en venta en Latina,"Puerta Del Ángel, Madrid","30,000",0, 11,unknown, 1,2023-10-15
+737,Madrid,Piso en venta en Latina,"Aluche, Madrid","130,000",0, 65, 3, 2,2023-10-15
+738,Madrid,Piso en venta en Villaverde,"Ciudad De Los Angeles, Madrid","185,000",0, 108, 3, 2,2023-10-15
+739,Madrid,Box/plaza de garaje en venta en Carabanchel,"Opañel - San Isidro, Madrid","8,000",0, 8,unknown,unknown,2023-10-15
+740,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","129,000",16, 63, 2, 1,2023-10-15
+741,Madrid,Piso en venta en Retiro,Madrid,"255,000",0, 190, 2, 1,2023-10-15
+742,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","269,900",0, 111, 3, 2,2023-10-15
+743,Madrid,Piso en venta en Latina,"Aluche, Madrid","328,000",0, 115,unknown, 2,2023-10-15
+744,Madrid,Local comercial en venta en Arganzuela,"Delicias - Embajadores, Madrid","180,000",0, 10, 2, 1,2023-10-15
+745,Madrid,Box/plaza de garaje en venta en Hortaleza,"Canillas, Madrid","17,000",0, 1,unknown,unknown,2023-10-15
+746,Madrid,Local comercial en venta en Ciudad Lineal,"Concepción, Madrid","50,000",0, 40, 1,unknown,2023-10-15
+747,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","179,999",0, 94, 3, 1,2023-10-15
+748,Madrid,Local comercial en venta en Usera,"Orcasitas - San Fermin, Madrid","140,000",0, 259,unknown, 1,2023-10-15
+749,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","175,000",0, 89, 3, 1,2023-10-15
+750,Madrid,Box/plaza de garaje en venta en Tetuán,"Bellas Vistas, Madrid","17,000",0, 10,unknown,unknown,2023-10-15
+751,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","125,000",16, 57, 2, 1,2023-10-15
+752,Madrid,Box/plaza de garaje en venta en Chamberí,Madrid,"70,000",0,,unknown,unknown,2023-10-15
+753,Madrid,Piso en venta en Villaverde,"Villaverde Alto, Madrid","110,000",0, 58, 2, 1,2023-10-15
+754,Madrid,Local comercial en venta en Calle Tordegrillos,"Villaverde, Villaverde Alto, Madrid","75,000",20, 90,unknown, 1,2023-10-15
+755,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","140,000",16, 59, 2, 1,2023-10-15
+756,Madrid,Piso en venta en Moncloa - Aravaca,"Ciudad Universitaria, Madrid","480,000",7, 97, 4, 2,2023-10-15
+757,Madrid,Piso en venta en Ciudad Lineal,"Concepción, Madrid","170,000",11, 65, 2, 1,2023-10-15
+758,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","250,000",0, 6, 2, 1,2023-10-15
+759,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","339,000",0, 89, 2, 2,2023-10-15
+760,Madrid,Piso en venta en Arganzuela,"Acacias - Legazpi, Madrid","190,000",0, 37, 1,unknown,2023-10-15
+761,Madrid,Piso en venta en Calle Algodonales,"Tetuán, Berruguete, Madrid","300,000",0, 84, 2,unknown,2023-10-15
+762,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","180,000",12, 84, 1, 1,2023-10-15
+763,Madrid,Box/plaza de garaje en venta en Villaverde,"Ciudad De Los Angeles, Madrid","18,000",0, 15,unknown,unknown,2023-10-15
+764,Madrid,Piso en venta en Ciudad Lineal,"Pueblo Nuevo, Madrid","155,000",16, 58, 2, 1,2023-10-15
+765,Madrid,Piso en venta en Puente De Vallecas,"Palomeras - Portazgo, Madrid","229,000",3, 76, 3,unknown,2023-10-15
+766,Madrid,Box/plaza de garaje en venta en Villaverde,"Villaverde Bajo - Oroquieta - Espinillo, Madrid","13,000",0, 19,unknown,unknown,2023-10-15
+767,Madrid,Piso en venta en Moratalaz,Madrid,"320,000",0, 9, 3, 2,2023-10-15
+768,Madrid,Piso en venta en Latina,"Lucero, Madrid","164,900",0, 68, 3, 2,2023-10-15
+769,Madrid,Local comercial en venta en Retiro,Madrid,"325,000",4, 85, 4, 2,2023-10-15
+770,Madrid,Piso en venta en Carabanchel,"Vista Alegre, Madrid","155,000",0, 85, 3, 1,2023-10-15
+771,Madrid,Box/plaza de garaje en venta en Chamberí,Madrid,"73,000",0,,unknown,unknown,2023-10-15
+772,Madrid,Box/plaza de garaje en venta en Tetuán,"Berruguete, Madrid","10,000",0, 20,unknown,unknown,2023-10-15
+773,Madrid,Box/plaza de garaje en venta en Carabanchel,"Marque De Vadillo - Comillas, Madrid","11,000",5, 14,unknown,unknown,2023-10-15
+774,Madrid,Box/plaza de garaje en venta en Calle del Gral. Pardiñas,"Salamanca, Fuente Del Berro, Madrid","39,000",0, 11,unknown,unknown,2023-10-15
+775,Madrid,Box/plaza de garaje en venta en C. de Torrelaguna,"Hortaleza, Canillas, Madrid","15,500",0, 15,unknown,unknown,2023-10-15
+776,Madrid,Box/plaza de garaje en venta en C. de Torrelaguna,"Hortaleza, Canillas, Madrid","13,000",0, 16,unknown,unknown,2023-10-15
+777,Madrid,Piso en venta en Villaverde,"Villaverde Alto, Madrid","135,000",0, 5, 2, 1,2023-10-15
+778,Madrid,Piso en venta en Calle Daganzo,"Chamartín, Prosperidad, Madrid","310,000",0, 65, 2, 2,2023-10-15
+779,Madrid,Piso en venta en Latina,"Aluche, Madrid","108,000",0, 43, 2, 2,2023-10-15
+780,Madrid,Box/plaza de garaje en venta en Chamartín,"Ciudad Jardín, Madrid","299,000",0, 263,unknown,unknown,2023-10-15
+781,Madrid,Box/plaza de garaje en venta en San Blas,"Simancas, Madrid","22,000",0, 15,unknown,unknown,2023-10-15
+782,Madrid,Local comercial en venta en Moratalaz,Madrid,"125,000",0, 60, 4, 2,2023-10-15
+783,Madrid,Piso en venta en Centro,"Malasaña - Justicia - Universidad, Madrid","194,900",0, 30, 1, 1,2023-10-15
+784,Madrid,Local comercial en venta en C/ del Marqués del Duero,"Retiro, Madrid","375,000",0, 133,unknown, 1,2023-10-15
+785,Madrid,Local comercial en venta en Centro,"Malasaña - Justicia - Universidad, Madrid","214,900",0, 124,unknown,unknown,2023-10-15
+786,Madrid,Box/plaza de garaje en venta en San Blas,"Simancas, Madrid","22,000",0, 15,unknown,unknown,2023-10-15
+787,Madrid,Box/plaza de garaje en venta en Puente De Vallecas,"Numancia, Madrid","20,000",0, 20,unknown,unknown,2023-10-15
+788,Madrid,Local comercial en venta en Tetuán,"Valdeacederas, Madrid","1,600,000",0, 1411,unknown,unknown,2023-10-15
+789,Madrid,Piso en venta en Calle Pescadores,"San Blas, Rosas, Madrid","124,999",5, 46, 2, 1,2023-10-15
+790,Madrid,Piso en venta en Hortaleza,"Canillas, Madrid","398,000",0, 90, 3, 1,2023-10-15
+791,Madrid,Piso en venta en Latina,"Las Aguilas - Cuatro Vientos, Madrid","190,000",0, 87,unknown, 1,2023-10-15
+792,Madrid,Piso en venta en San Blas,"Rosas, Madrid","105,000",3, 58, 2, 1,2023-10-15
+793,Madrid,Piso en venta en San Blas,"Rosas, Madrid","185,000",5, 108, 4, 2,2023-10-15
+794,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","125,000",3, 69, 3, 1,2023-10-15
+795,Madrid,Piso en venta en Arganzuela,"Delicias - Embajadores, Madrid","135,000",0, 33, 1, 1,2023-10-15
+796,Madrid,Local comercial en venta en Chamartín,"Castilla, Madrid","350,000",0, 87, 1, 1,2023-10-15
+797,Madrid,Local comercial en venta en Carabanchel,"Opañel - San Isidro, Madrid","90,000",0, 34,unknown, 2,2023-10-15
+798,Madrid,Box/plaza de garaje en venta en Calle Binéfar,"Carabanchel, Vista Alegre, Madrid","16,000",0, 1,unknown,unknown,2023-10-15
+799,Madrid,Box/plaza de garaje en venta en Tetuán,"Berruguete, Madrid","13,000",0, 15,unknown,unknown,2023-10-15
+800,Madrid,Box/plaza de garaje en venta en Arganzuela,"Acacias - Legazpi, Madrid","18,500",0, 16,unknown,unknown,2023-10-15
+801,Madrid,Piso en venta en San Blas,"Canillejas, Madrid","120,000",5, 45, 2, 1,2023-10-15
+802,Madrid,Edificio en venta en Puente De Vallecas,"Numancia, Madrid","1,985,000",0, 677, 21,unknown,2023-10-15
+803,Madrid,Box/plaza de garaje en venta en San Blas,"Rosas, Madrid","24,500",0, 15,unknown,unknown,2023-10-15
+804,Madrid,Piso en venta en Latina,"Aluche, Madrid","135,000",0, 84,unknown, 1,2023-10-15
+805,Madrid,Box/plaza de garaje en venta en San Blas,"Rosas, Madrid","12,000",0, 9,unknown,unknown,2023-10-15
+806,Madrid,Box/plaza de garaje en venta en C. Moscareta,"Latina, Puerta Del Ángel, Madrid","20,000",0, 1, 9,unknown,2023-10-15
+807,Madrid,Box/plaza de garaje en venta en C. Moscareta,"Latina, Puerta Del Ángel, Madrid","25,000",0, 1, 9,unknown,2023-10-15
+808,Madrid,Box/plaza de garaje en venta en C. Moscareta,"Latina, Puerta Del Ángel, Madrid","30,000",0, 1, 9,unknown,2023-10-15
+809,Madrid,Box/plaza de garaje en venta en Fuencarral,"Fuencarral - Tres Olivos - Virgen De Begoña, Madrid","7,500",0, 10,unknown,unknown,2023-10-15
+810,Madrid,Piso en venta en San Blas,"Rosas, Madrid","155,000",0, 44, 2, 1,2023-10-15
+811,Madrid,Piso en venta en Hortaleza,"Virgen Del Cortijo - Manoteras, Madrid","350,000",0, 116, 4, 2,2023-10-15
+812,Madrid,Box/plaza de garaje en venta en Calle Francisco Medrano,"Tetuán, Cuzco - Castillejos, Madrid","15,000",0, 23,unknown,unknown,2023-10-15
+813,Madrid,Terrenos en venta en Carabanchel,"San Isidro, Madrid","278,000",0, 115,unknown,unknown,2023-10-15
+814,Madrid,Piso en venta en Usera,"Moscardo - Antonio Lopez, Madrid","100,000",0, 5, 2, 1,2023-10-15
+815,Madrid,Box/plaza de garaje en venta en C. de Serrano,"Salamanca, Fuente Del Berro, Madrid","11,000",0, 16,unknown,unknown,2023-10-15
+816,Madrid,Box/plaza de garaje en venta en Arganzuela,"Delicias - Embajadores, Madrid","12,000",0, 6,unknown,unknown,2023-10-15
+817,Madrid,Box/plaza de garaje en venta en Centro,"Lavapiés - Embajadores, Madrid","140,000",0, 38, 1, 1,2023-10-15
+818,Madrid,Piso en venta en Centro,"Lavapiés - Embajadores, Madrid","295,000",0, 87, 3, 1,2023-10-15
+819,Madrid,Piso en venta en San Blas,"Rosas, Madrid","135,000",0, 77, 3, 1,2023-10-15
+820,Madrid,Box/plaza de garaje en venta en Fuencarral,"Peñagrande, Madrid","9,500",0, 14,unknown, 1,2023-10-15
+821,Madrid,Piso en venta en Usera,"Moscardo - Antonio Lopez, Madrid","105,000",0, 44, 2, 1,2023-10-15
+822,Madrid,Piso en venta en Centro,"Malasaña - Justicia - Universidad, Madrid","1,375,900",0, 118, 2, 2,2023-10-15
+823,Madrid,Piso en venta en Latina,"Aluche, Madrid","550,000",0, 175, 5, 2,2023-10-15
+824,Madrid,Piso en venta en Fuencarral,"La Paz, Madrid","399,000",0, 120, 4, 2,2023-10-15
